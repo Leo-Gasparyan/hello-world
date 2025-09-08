@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the Hello World Assignment.
+Hello, my name is Leo Gasparyan, and I am taking Computer Science 135.
